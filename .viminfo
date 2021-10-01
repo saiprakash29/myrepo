@@ -12,7 +12,7 @@
 ~H
 # Command Line History (newest to oldest):
 :wq!
-|2,0,1633070657,,"wq!"
+|2,0,1633071996,,"wq!"
 
 # Search String History (newest to oldest):
 
@@ -25,24 +25,70 @@
 # Registers:
 
 # File marks:
-'0  2  18  ~/text
-|4,48,2,18,1633070657,"~/text"
-'1  9  0  ~/Myprotfolio/sample
-|4,49,9,0,1633068410,"~/Myprotfolio/sample"
-'2  6  22  ~/Myprotfolio/sample
-|4,50,6,22,1633066774,"~/Myprotfolio/sample"
-'3  6  22  ~/Myprotfolio/sample
-|4,51,6,22,1633066774,"~/Myprotfolio/sample"
+'0  4  23  ~/text
+|4,48,4,23,1633071996,"~/text"
+'1  4  23  ~/text
+|4,49,4,23,1633071889,"~/text"
+'2  2  18  ~/text
+|4,50,2,18,1633070657,"~/text"
+'3  2  18  ~/text
+|4,51,2,18,1633070657,"~/text"
+'4  2  18  ~/text
+|4,52,2,18,1633070657,"~/text"
+'5  2  18  ~/text
+|4,53,2,18,1633070657,"~/text"
+'6  9  0  ~/Myprotfolio/sample
+|4,54,9,0,1633068410,"~/Myprotfolio/sample"
+'7  6  22  ~/Myprotfolio/sample
+|4,55,6,22,1633066774,"~/Myprotfolio/sample"
+'8  6  22  ~/Myprotfolio/sample
+|4,56,6,22,1633066774,"~/Myprotfolio/sample"
 
 # Jumplist (newest first):
+-'  4  23  ~/text
+|4,39,4,23,1633071996,"~/text"
+-'  4  23  ~/text
+|4,39,4,23,1633071889,"~/text"
+-'  2  18  ~/text
+|4,39,2,18,1633071862,"~/text"
+-'  2  18  ~/text
+|4,39,2,18,1633071862,"~/text"
 -'  2  18  ~/text
 |4,39,2,18,1633070657,"~/text"
+-'  1  0  ~/text
+|4,39,1,0,1633070615,"~/text"
+-'  1  0  ~/text
+|4,39,1,0,1633070615,"~/text"
 -'  1  0  ~/text
 |4,39,1,0,1633070615,"~/text"
 -'  9  0  ~/Myprotfolio/sample
 |4,39,9,0,1633068410,"~/Myprotfolio/sample"
 -'  9  0  ~/Myprotfolio/sample
 |4,39,9,0,1633068410,"~/Myprotfolio/sample"
+-'  9  0  ~/Myprotfolio/sample
+|4,39,9,0,1633068410,"~/Myprotfolio/sample"
+-'  9  0  ~/Myprotfolio/sample
+|4,39,9,0,1633068410,"~/Myprotfolio/sample"
+-'  9  0  ~/Myprotfolio/sample
+|4,39,9,0,1633068410,"~/Myprotfolio/sample"
+-'  9  0  ~/Myprotfolio/sample
+|4,39,9,0,1633068410,"~/Myprotfolio/sample"
+-'  9  0  ~/Myprotfolio/sample
+|4,39,9,0,1633068410,"~/Myprotfolio/sample"
+-'  9  0  ~/Myprotfolio/sample
+|4,39,9,0,1633068410,"~/Myprotfolio/sample"
+-'  6  22  ~/Myprotfolio/sample
+|4,39,6,22,1633068365,"~/Myprotfolio/sample"
+-'  6  22  ~/Myprotfolio/sample
+|4,39,6,22,1633068365,"~/Myprotfolio/sample"
+-'  6  22  ~/Myprotfolio/sample
+|4,39,6,22,1633068365,"~/Myprotfolio/sample"
+-'  6  22  ~/Myprotfolio/sample
+|4,39,6,22,1633068365,"~/Myprotfolio/sample"
+-'  6  22  ~/Myprotfolio/sample
+|4,39,6,22,1633068365,"~/Myprotfolio/sample"
+-'  6  22  ~/Myprotfolio/sample
+|4,39,6,22,1633068365,"~/Myprotfolio/sample"
 -'  6  22  ~/Myprotfolio/sample
 |4,39,6,22,1633068365,"~/Myprotfolio/sample"
 -'  6  22  ~/Myprotfolio/sample
@@ -51,6 +97,42 @@
 |4,39,6,22,1633066774,"~/Myprotfolio/sample"
 -'  6  22  ~/Myprotfolio/sample
 |4,39,6,22,1633066774,"~/Myprotfolio/sample"
+-'  6  22  ~/Myprotfolio/sample
+|4,39,6,22,1633066774,"~/Myprotfolio/sample"
+-'  6  22  ~/Myprotfolio/sample
+|4,39,6,22,1633066774,"~/Myprotfolio/sample"
+-'  6  22  ~/Myprotfolio/sample
+|4,39,6,22,1633066774,"~/Myprotfolio/sample"
+-'  6  22  ~/Myprotfolio/sample
+|4,39,6,22,1633066774,"~/Myprotfolio/sample"
+-'  6  22  ~/Myprotfolio/sample
+|4,39,6,22,1633066774,"~/Myprotfolio/sample"
+-'  6  22  ~/Myprotfolio/sample
+|4,39,6,22,1633066774,"~/Myprotfolio/sample"
+-'  1  0  ~/Myprotfolio/sample
+|4,39,1,0,1633066747,"~/Myprotfolio/sample"
+-'  1  0  ~/Myprotfolio/sample
+|4,39,1,0,1633066747,"~/Myprotfolio/sample"
+-'  1  0  ~/Myprotfolio/sample
+|4,39,1,0,1633066747,"~/Myprotfolio/sample"
+-'  1  0  ~/Myprotfolio/sample
+|4,39,1,0,1633066747,"~/Myprotfolio/sample"
+-'  1  0  ~/Myprotfolio/sample
+|4,39,1,0,1633066747,"~/Myprotfolio/sample"
+-'  1  0  ~/Myprotfolio/sample
+|4,39,1,0,1633066747,"~/Myprotfolio/sample"
+-'  1  0  ~/Myprotfolio/sample
+|4,39,1,0,1633066747,"~/Myprotfolio/sample"
+-'  1  0  ~/Myprotfolio/sample
+|4,39,1,0,1633066747,"~/Myprotfolio/sample"
+-'  1  0  ~/Myprotfolio/sample
+|4,39,1,0,1633066747,"~/Myprotfolio/sample"
+-'  1  0  ~/Myprotfolio/sample
+|4,39,1,0,1633066747,"~/Myprotfolio/sample"
+-'  1  0  ~/Myprotfolio/sample
+|4,39,1,0,1633066747,"~/Myprotfolio/sample"
+-'  1  0  ~/Myprotfolio/sample
+|4,39,1,0,1633066747,"~/Myprotfolio/sample"
 -'  1  0  ~/Myprotfolio/sample
 |4,39,1,0,1633066747,"~/Myprotfolio/sample"
 -'  1  0  ~/Myprotfolio/sample
@@ -63,11 +145,12 @@
 # History of marks within files (newest to oldest):
 
 > ~/text
-	*	1633070652	0
-	"	2	18
-	^	2	19
-	.	2	18
+	*	1633071991	0
+	"	4	23
+	^	4	24
+	.	4	23
 	+	2	18
+	+	4	23
 
 > ~/Myprotfolio/sample
 	*	1633068404	0
